@@ -17,8 +17,7 @@ ilitate collaboration and discussions among users, teachers, and experts.
 - *Data Security*: Protect user data with robust security measures.
 
 ## Methodology
-The Scrum methodology is adopted for its flexibility, collaboration, visibility, and client integration. This approach ensures the platform evolves according to user needs and project requirements【15:3†source】.
-
+The Scrum methodology is adopted for its flexibility, collaboration, visibility, and client integration. This approach ensures the platform evolves according to user needs and project requirements.
 ## Diagrams
 - *Use Case Diagram*: Illustrates user interactions with the system.
 - *Class Diagram*: Defines the system's structure through its classes.
