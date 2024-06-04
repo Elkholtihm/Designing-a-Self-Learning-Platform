@@ -14,7 +14,7 @@ ilitate collaboration and discussions among users, teachers, and experts.
 - *Media Integration*: Support for videos, images, presentations, and PDFs.
 - *Payment Integration*: Handle premium course purchases.
 - *Multi-platform Access*: Compatible with desktops, tablets, and smartphones.
-- *Data Security*: Protect user data with robust security measures【15:0†source】【15:4†source】.
+- *Data Security*: Protect user data with robust security measures.
 
 ## Methodology
 The Scrum methodology is adopted for its flexibility, collaboration, visibility, and client integration. This approach ensures the platform evolves according to user needs and project requirements【15:3†source】.
@@ -23,11 +23,11 @@ The Scrum methodology is adopted for its flexibility, collaboration, visibility,
 - *Use Case Diagram*: Illustrates user interactions with the system.
 - *Class Diagram*: Defines the system's structure through its classes.
 - *Sequence Diagram*: Shows how objects interact in a particular scenario.
-- *Activity Diagram*: Represents workflows of stepwise activities and actions【15:0†source】.
+- *Activity Diagram*: Represents workflows of stepwise activities and actions.
 
 ## Technologies and Frameworks
 - *Programming Language*: Python
-- *Frameworks and Tools*: (Details to be specified based on further project development)【15:5†source】.
+- *Frameworks and Tools*: (Details to be specified based on further project development).
 
 ## Development Plan
 1. *Feasibility Study*: Evaluate available resources and project feasibility.
@@ -35,16 +35,15 @@ The Scrum methodology is adopted for its flexibility, collaboration, visibility,
 3. *Development*: Backend and frontend development.
 4. *Testing*: Unit, integration, and acceptance tests.
 5. *Deployment*: Production deployment, updates, and feature enhancements.
-6. *Maintenance*: Ongoing support and improvement【15:3†source】.
+6. *Maintenance*: Ongoing support and improvement.
 
 ## Testing
 - *Functional Tests*: Verify platform capabilities, such as account creation, course selection, course interaction, test-taking, chatbot functionality, and forum usage.
-- *Non-Functional Tests*: Performance, security, accessibility, compatibility, load, and user acceptance【15:1†source】【15:3†source】.
+- *Non-Functional Tests*: Performance, security, accessibility, compatibility, load, and user acceptance.
 
 ## Roles and Responsibilities
 - *Product Owner: Develop features, prioritize sprints, validate functionalities, manage budget and schedule.
 - *Scrum Master (Fatima Ezzahraa Tidaadar)*: Facilitate Scrum meetings, resolve issues, promote continuous improvement, ensure effective team collaboration.
-- *Development Team: Design, develop, and test platform features, collaborate effectively, deliver features on time【15:1†source】.
-
+- *Development Team: Design, develop, and test platform features, collaborate effectively, deliver features on time.
 ## Timeline
-The development plan includes distinct sprints, each focusing on specific aspects of the project, ensuring timely and structured progression from feasibility study to deployment and maintenance【15:3†source】.
+The development plan includes distinct sprints, each focusing on specific aspects of the project, ensuring timely and structured progression from feasibility study to deployment and maintenance.
