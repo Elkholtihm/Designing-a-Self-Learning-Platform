@@ -6,7 +6,7 @@ This project focuses on designing a self-learning platform named "APRENDAMOS," a
 ## Functionalities
 - *User Registration and Profiles*: Users can create and manage their accounts.
 - *Course Library*: Browse, search, and access various courses.
-- *Discussions and Forums*: Fac
+- *Discussions and Forums*
 ilitate collaboration and discussions among users, teachers, and experts.
 - *Chatbot*: Assist users with questions and guide them to suitable courses.
 - *Certifications*: Issue certificates upon course completion.
@@ -42,7 +42,7 @@ The Scrum methodology is adopted for its flexibility, collaboration, visibility,
 
 ## Roles and Responsibilities
 - *Product Owner: Develop features, prioritize sprints, validate functionalities, manage budget and schedule.
-- *Scrum Master (Fatima Ezzahraa Tidaadar)*: Facilitate Scrum meetings, resolve issues, promote continuous improvement, ensure effective team collaboration.
+- *Scrum Master: Facilitate Scrum meetings, resolve issues, promote continuous improvement, ensure effective team collaboration.
 - *Development Team: Design, develop, and test platform features, collaborate effectively, deliver features on time.
 ## Timeline
 The development plan includes distinct sprints, each focusing on specific aspects of the project, ensuring timely and structured progression from feasibility study to deployment and maintenance.
